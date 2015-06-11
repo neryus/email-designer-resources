@@ -1,5 +1,5 @@
 # email designer resources
-My own collection of resources that helps me in day 2 day work with email design and developing.
+My own collection of resources that helps me in day 2 day work with email design and developing. I will add new resources from time to time. At this moment I'm just starting to fill up this page with content.
 
 ### Images
 
