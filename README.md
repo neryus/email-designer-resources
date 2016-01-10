@@ -16,3 +16,6 @@ You simply type in a URL, and PlaceIt automatically generates a screenshot and p
 ##Voice and Tone
 
 Mailchimp build awesome voice and tone [guide](http://voiceandtone.com/). Worth checking before writing emails.
+
+##Mailchimp recourses
+[Mailchimp / email design reference](http://templates.mailchimp.com/)
