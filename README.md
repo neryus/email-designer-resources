@@ -3,6 +3,12 @@ My own collection of resources that helps me in day 2 day work with email design
 
 ## Images
 
+**[Ribbet](https://www.ribbet.com/app)** as creators claim it's Photoshop alternative, that can be used inside your browser. At least it's good to slice provided email design in jpg, png or gif. As alternative for Photoshop it not support psd or pdf format. Some features available only for registered users.
+
+Thre is available [Chrome app](https://chrome.google.com/webstore/detail/ribbet-photo-editor/bikpkcdadljalhghbbipfkkhocppkhob)
+
+No login or account required.
+
 **[PlaceIt](https://placeit.net/)** makes it easy to create beautiful screenshots of your website, application or any other digital product.
 
 You simply type in a URL, and PlaceIt automatically generates a screenshot and places it inside a device in a particular context, such as an iPad sitting on a desk or a MacBook Pro sitting on a park bench.
