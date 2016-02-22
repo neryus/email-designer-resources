@@ -2,10 +2,14 @@
 My own collection of resources that helps me in day 2 day work with email design and developing. I will add new resources from time to time. At this moment I'm just starting to fill up this page with content.
 
 ## Images
+**[Pixlr](https://pixlr.com/)** good alternative for Photoshop, it's opening psd files and this is enough to crop email design. Images  can be saved only in two formats - jpg and png.
+
+Available web app and desktop version, In my opinion desktop working much faster and available worktop is bigger.
+
 
 **[Ribbet](https://www.ribbet.com/app)** as creators claim it's Photoshop alternative, that can be used inside your browser. At least it's good to slice provided email design in jpg, png or gif. As alternative for Photoshop it not support psd or pdf format. Some features available only for registered users.
 
-Thre is available [Chrome app](https://chrome.google.com/webstore/detail/ribbet-photo-editor/bikpkcdadljalhghbbipfkkhocppkhob)
+There is available [Chrome app](https://chrome.google.com/webstore/detail/ribbet-photo-editor/bikpkcdadljalhghbbipfkkhocppkhob).
 
 No login or account required.
 
