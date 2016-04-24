@@ -1,6 +1,14 @@
 # email designer/developer resources
 My own collection of resources that helps me in day 2 day work with email design and developing. I will add new resources from time to time. At this moment I'm just starting to fill up this page with content.
 
+## Email copy
+
+**[Just Good Copy](http://www.goodemailcopy.com/)**
+
+Good copy matters, but setting the right tone can be a challenge sometimes. For example, how do you best communicate that billing had failed, that a subscription is about to renew or that your product is under maintenance? Some companies manage to do this extremely well, and to give you a hand when writing email copy. [Just Good Copy](http://www.goodemailcopy.com/) has collected these outstanding examples.
+
+The collection features email copy for all kinds of occasions: from welcome emails and new feature announcements to trickier things like apologies, billing issues and the unpleasant case of shutting down.
+
 ## Images
 **[Pixlr](https://pixlr.com/)** good alternative for Photoshop, it's opening psd files and this is enough to crop email design. Images  can be saved only in two formats - jpg and png.
 
