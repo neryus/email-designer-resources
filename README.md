@@ -10,7 +10,7 @@ Good copy matters, but setting the right tone can be a challenge sometimes. For 
 The collection features email copy for all kinds of occasions: from welcome emails and new feature announcements to trickier things like apologies, billing issues and the unpleasant case of shutting down.
 
 ## Images
-**[Pixlr](https://pixlr.com/)** good alternative for Photoshop, it's opening psd files and this is enough to crop email design. Images  can be saved only in two formats - jpg and png.
+**[Pixlr](https://pixlr.com/)** good alternative for Photoshop, it's opening psd files and this is enough to crop email designs. Images can be saved only in two formats - jpg and png.
 
 Available web app and desktop version, In my opinion desktop working much faster and available worktop is bigger.
 
@@ -18,8 +18,12 @@ Available web app and desktop version, In my opinion desktop working much faster
 **[Ribbet](https://www.ribbet.com/app)** as creators claim it's Photoshop alternative, that can be used inside your browser. At least it's good to slice provided email design in jpg, png or gif. As alternative for Photoshop it not support psd or pdf format. Some features available only for registered users.
 
 There is available [Chrome app](https://chrome.google.com/webstore/detail/ribbet-photo-editor/bikpkcdadljalhghbbipfkkhocppkhob).
-
 No login or account required.
+
+##Image optimization
+[ImageOptim](https://imageoptim.com/mac) is a good application for MAC users only, also there is web service, but it's in beta at the time of typing. Probably worth trying.
+
+##Miscellaneous
 
 **[PlaceIt](https://placeit.net/)** makes it easy to create beautiful screenshots of your website, application or any other digital product.
 
