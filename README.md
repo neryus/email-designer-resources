@@ -9,6 +9,9 @@ Good copy matters, but setting the right tone can be a challenge sometimes. For 
 
 The collection features email copy for all kinds of occasions: from welcome emails and new feature announcements to trickier things like apologies, billing issues and the unpleasant case of shutting down.
 
+##Video
+[GIFgenerator](https://imgflip.com/gifgenerator) - simple tool to create gifs from video. Some of the popular supported video formats are flv, avi, mov, mp4, mpg, mpeg, wmv, 3gp, asf, swf, ogg, h264, rm.
+
 ## Images
 **[Pixlr](https://pixlr.com/)** good alternative for Photoshop, it's opening psd files and this is enough to crop email designs. Images can be saved only in two formats - jpg and png.
 
@@ -34,6 +37,30 @@ You simply type in a URL, and PlaceIt automatically generates a screenshot and p
 **[Canva](https://www.canva.com/)** helps make graphic design simple. The tool contains thousands of beautiful stock images which can be used in your designs, and you can easily add other elements such as text, banners, frames, and buttons as well.
 
 ![Examples](https://www.campaignmonitor.com/assets/images/guides/better-marketing-results/canva.jpg?ver=4312)
+
+##Free stock photographies
+Nice background's to email headers:
+- [Unsplash](https://unsplash.com/)
+- [Gratisography](http://www.gratisography.com/)
+- [Splitshire](http://www.splitshire.com/)
+- [Life of Pix](http://www.lifeofpix.com/)
+- [Death to Stock Photos](http://deathtothestockphoto.com/)
+- [Superfamous Studios](http://images.superfamous.com/)
+- [Picjumbo](https://picjumbo.com/)
+- [IM Free](http://www.imcreator.com/free)
+- [New Old Stock](http://nos.twnsnd.co/)
+- [Getrefe](http://getrefe.tumblr.com/)
+- [Startup Stock Photos](http://startupstockphotos.com/)
+
+Free icons/ilustrations
+- [Iconfinder](https://www.iconfinder.com/free_icons)
+- [FlatIcon](http://www.flaticon.com/)
+- [The Noun Project](https://thenounproject.com/)
+
+Free backgrounds/patterns
+- [SubtlePatterns](http://subtlepatterns.com/)
+- [The Pattern Libarry](http://thepatternlibrary.com/)
+- [DinPattern](http://www.dinpattern.com/)
 
 ##Voice and Tone
 
