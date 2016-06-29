@@ -26,6 +26,8 @@ No login or account required.
 ##Image optimization
 [ImageOptim](https://imageoptim.com/mac) is a good application for MAC users only, also there is web service, but it's in beta at the time of typing. Probably worth trying.
 
+[TinyPNG](https://tinypng.com/) and [TinyJPG](https://tinyjpg.com/) both web based compression service. If you need to compress more than few images you can use API service. Also, they have Photoshop plugin for Mac and Windows users.
+
 ##Miscellaneous
 
 **[PlaceIt](https://placeit.net/)** makes it easy to create beautiful screenshots of your website, application or any other digital product.
