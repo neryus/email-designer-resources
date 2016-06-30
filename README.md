@@ -42,6 +42,7 @@ You simply type in a URL, and PlaceIt automatically generates a screenshot and p
 
 ##Free stock photographies
 Nice background's to email headers:
+- [Raumrot](http://raumrot.com/) - free for commercial use photos
 - [Unsplash](https://unsplash.com/)
 - [Gratisography](http://www.gratisography.com/)
 - [Splitshire](http://www.splitshire.com/)
