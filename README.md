@@ -1,4 +1,4 @@
-# email designer/developer resources
+# Email designer/developer resources
 My own collection of resources that helps me in day 2 day work with email design and developing. I will add new resources from time to time. At this moment I'm just starting to fill up this page with content.
 
 ## Email copy
@@ -23,12 +23,21 @@ Available web app and desktop version, In my opinion desktop working much faster
 There is available [Chrome app](https://chrome.google.com/webstore/detail/ribbet-photo-editor/bikpkcdadljalhghbbipfkkhocppkhob).
 No login or account required.
 
-##Image optimization
+## Online image editors
+The list of online image editors that could be good alternative to the Photoshop.
+
+| Name | Web address | Online version | Tested | Cons | Pros |
+| :--- | :---------- | :------------- | ------ | :--- | :--- |
+| Sumopaint | https://www.sumopaint.com/ | Lite version don't need an account | No | n/a | n/a |
+| Ribbet | https://www.ribbet.com/ | Yes, don't need an account | No | n/a | n/a |
+| :--- | :---------- | :------------- | ------ | :--- | :--- |
+
+## Image optimization
 [ImageOptim](https://imageoptim.com/mac) is a good application for MAC users only, also there is web service, but it's in beta at the time of typing. Probably worth trying.
 
 [TinyPNG](https://tinypng.com/) and [TinyJPG](https://tinyjpg.com/) both web based compression service. If you need to compress more than few images you can use API service. Also, they have Photoshop plugin for Mac and Windows users.
 
-##Miscellaneous
+## Miscellaneous
 
 **[PlaceIt](https://placeit.net/)** makes it easy to create beautiful screenshots of your website, application or any other digital product.
 
@@ -40,7 +49,7 @@ You simply type in a URL, and PlaceIt automatically generates a screenshot and p
 
 ![Examples](https://www.campaignmonitor.com/assets/images/guides/better-marketing-results/canva.jpg?ver=4312)
 
-##Free stock photographies
+## Free stock photographies
 Nice background's to email headers:
 - [Raumrot](http://raumrot.com/) - free for commercial use photos
 - [Unsplash](https://unsplash.com/)
@@ -55,19 +64,16 @@ Nice background's to email headers:
 - [Getrefe](http://getrefe.tumblr.com/)
 - [Startup Stock Photos](http://startupstockphotos.com/)
 
-Free icons/ilustrations
+## Free icons/ilustrations
 - [Iconfinder](https://www.iconfinder.com/free_icons)
 - [FlatIcon](http://www.flaticon.com/)
 - [The Noun Project](https://thenounproject.com/)
 
-Free backgrounds/patterns
+## Free backgrounds/patterns
 - [SubtlePatterns](http://subtlepatterns.com/)
 - [The Pattern Libarry](http://thepatternlibrary.com/)
 - [DinPattern](http://www.dinpattern.com/)
 
-##Voice and Tone
+## Voice and Tone
 
-Mailchimp build awesome voice and tone [guide](http://voiceandtone.com/). Worth checking before writing emails.
-
-##Mailchimp recourses
-[Mailchimp / email design reference](http://templates.mailchimp.com/)
+Mailchimp build awesome voice and tone [guide](http://voiceandtone.com/). Worth checking before writing emails. [Mailchimp / email design reference](http://templates.mailchimp.com/)
