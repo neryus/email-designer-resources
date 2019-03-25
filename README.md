@@ -30,6 +30,7 @@ The list of online image editors that could be good alternative to the Photoshop
 | :--- | :---------- | :------------- | ------ | :--- | :--- |
 | Sumopaint | https://www.sumopaint.com/ | Lite version don't need an account | No | n/a | n/a |
 | Ribbet | https://www.ribbet.com/ | Yes, don't need an account | No | n/a | n/a |
+| iPiccy | https://ipiccy.com/ | Yes, don't need an account | No | n/a | n/a |
 | :--- | :---------- | :------------- | ------ | :--- | :--- |
 
 ## Image optimization
