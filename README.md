@@ -35,6 +35,7 @@ The list of online image editors that could be good alternative to the Photoshop
 | Photopea | https://www.photopea.com/ | Yes, account not required | No | n/a | n/a | :----- | :--- |
 | Pixlr | https://pixlr.com/ | Yes, account not required | No | n/a | n/a | Yes | JPG, PNG |
 | Polarr | https://photoeditor.polarr.co/ | Yes, account not required | No | n/a | n/a | :----- | :--- |
+| BeFunky | https://www.befunky.com/ | Yes, account not required | No | n/a | n/a | Yes | JPG, PNG |
 
 ## Image optimization
 [ImageOptim](https://imageoptim.com/mac) is a good application for MAC users only, also there is web service, but it's in beta at the time of typing. Probably worth trying.
